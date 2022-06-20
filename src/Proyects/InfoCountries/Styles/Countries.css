@@ -1,0 +1,120 @@
+:root {
+    --main-color: #f0f0f0;
+    --secundary-color: orange;
+}
+
+div {
+    background-color: var(--main-color)
+}
+
+.return-countries {
+    border: none;
+}
+
+.return-countries-home {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.header-countries {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--main-color);
+}
+
+.header-countries h1 {
+    text-align: center;
+    color: var(--secundary-color);
+    padding: 20px 0 5px 0;
+    font-size: 80px;
+}
+
+.header-countries p {
+    text-align: center;
+    padding: 0 0 20px 0;
+    font-size: 40px;
+}
+
+.header-countries input {
+    width: 80vw;
+    height: 30px;
+    padding: 0 10px;
+    border-radius: 15px;
+}
+
+.header-countries p {
+    margin: 10px 0;
+}
+
+.countries-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: var(--main-color);
+}
+
+.country-card {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 20px 0;
+    background-color: white;
+}
+
+.country-card img {
+    margin: 10px auto;
+    width: 200px;
+    height: 140px;
+    object-fit: cover;
+    box-shadow: -8px 9px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 9px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 9px 5px 0px rgba(0,0,0,0.75);
+}
+
+.country-card h1 {
+    text-align: center;
+    color: var(--secundary-color);
+}
+
+.country-card p {
+    margin: 3px 10px;
+    font-size: 20px;
+}
+
+.button-ranking {
+    background-color: orange;
+    margin: 20px 0;
+    width: 150px;
+    height: 40px;
+    font-size: 30px;
+}
+
+.button-ranking:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.Container-top {
+    display: flex;
+    font-size: 30px;
+    justify-content: space-around;
+    margin: 10px 0;
+}
+
+.Container-top div:nth-child(1) {
+    width: 20vw;
+}
+
+.Container-top div:nth-child(3) {
+    width: 20vw;
+    margin-left: 50px;
+}
+
+.Container-top div:nth-child(2) {
+    width: 40vw;
+    display: flex;
+}

@@ -1,0 +1,31 @@
+.portfolio h1 {
+    text-align: center;
+}
+
+.proyect-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.proyect-container h1 {
+    text-align: center;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    margin: 20px 20px 0 20px;
+    border: 1px solid black;
+}
+
+.card-container h1 {
+    margin: 5px 0;
+}
+
+.card-container p {
+    text-align: justify;
+    padding: 5px 10px;
+}
