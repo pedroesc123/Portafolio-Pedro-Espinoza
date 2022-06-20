@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Portafolio-Pedro-Espinoza/static/css/main.931f40b3.css",
-    "main.js": "/Portafolio-Pedro-Espinoza/static/js/main.5fdc2aa3.js",
+    "main.js": "/Portafolio-Pedro-Espinoza/static/js/main.18bbe818.js",
     "static/media/logo-github.png": "/Portafolio-Pedro-Espinoza/static/media/logo-github.ff2648078e819f6a9666.png",
     "static/media/logo-twitter.jpg": "/Portafolio-Pedro-Espinoza/static/media/logo-twitter.7de75a23e1150a16fe2b.jpg",
     "static/media/profile-image.jpg": "/Portafolio-Pedro-Espinoza/static/media/profile-image.07a8c5d4fee91ab0e417.jpg",
     "index.html": "/Portafolio-Pedro-Espinoza/index.html",
     "main.931f40b3.css.map": "/Portafolio-Pedro-Espinoza/static/css/main.931f40b3.css.map",
-    "main.5fdc2aa3.js.map": "/Portafolio-Pedro-Espinoza/static/js/main.5fdc2aa3.js.map"
+    "main.18bbe818.js.map": "/Portafolio-Pedro-Espinoza/static/js/main.18bbe818.js.map"
   },
   "entrypoints": [
     "static/css/main.931f40b3.css",
-    "static/js/main.5fdc2aa3.js"
+    "static/js/main.18bbe818.js"
   ]
 }
