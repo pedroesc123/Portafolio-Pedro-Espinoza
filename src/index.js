@@ -5,6 +5,7 @@ import App from './App';
 import Resume from './Components/Resume';
 import Portfolio from './Components/Portfolio'
 import Countries from './Proyects/InfoCountries/Components/Home';
+import AppTodo from './Proyects/TodoApp/Components/AppTodo.jsx'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -15,6 +16,7 @@ root.render(
         <Route path='/resume' element = {<Resume/>}></Route>
         <Route path='/portfolio' element = {<Portfolio/>}></Route>
         <Route path='/countries' element = {<Countries/>}></Route>
+        <Route path='/todo' element = {<AppTodo/>}></Route>
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

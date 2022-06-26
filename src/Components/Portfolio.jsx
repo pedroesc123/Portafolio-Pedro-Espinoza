@@ -20,7 +20,11 @@ const Portfolio = () => {
                     <p>En esta aplicación se extrajo la información de una API y se mostro a todos los países con algunas características de ellos, además de mostrarnos un ranking de los que presentan mayor población.</p>
                 </div>
                 <div className="card-container">
-                    <h1>Project 1</h1>
+                    <h1>
+                        <Link to='/todo'>
+                            Todo App
+                        </Link>
+                    </h1>
                     <img src={twitter} alt="Imagen del proyecto" />
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae eligendi nobis fuga beatae praesentium tenetur reiciendis.</p>
                 </div>

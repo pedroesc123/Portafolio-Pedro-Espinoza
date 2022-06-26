@@ -3,7 +3,7 @@
     --secundary-color: orange;
 }
 
-div {
+.container-div-countries {
     background-color: var(--main-color)
 }
 
