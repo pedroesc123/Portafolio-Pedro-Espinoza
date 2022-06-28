@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Portafolio-Pedro-Espinoza/static/css/main.e420c2f9.css",
-    "main.js": "/Portafolio-Pedro-Espinoza/static/js/main.cac0d3dc.js",
+    "main.css": "/Portafolio-Pedro-Espinoza/static/css/main.b3d502f1.css",
+    "main.js": "/Portafolio-Pedro-Espinoza/static/js/main.ab550b27.js",
     "static/media/logo-github.png": "/Portafolio-Pedro-Espinoza/static/media/logo-github.ff2648078e819f6a9666.png",
     "static/media/banderas-paises.jpg": "/Portafolio-Pedro-Espinoza/static/media/banderas-paises.8c2242dc7168172447f2.jpg",
     "static/media/logo-twitter.jpg": "/Portafolio-Pedro-Espinoza/static/media/logo-twitter.7de75a23e1150a16fe2b.jpg",
     "static/media/profile-image.jpg": "/Portafolio-Pedro-Espinoza/static/media/profile-image.07a8c5d4fee91ab0e417.jpg",
     "index.html": "/Portafolio-Pedro-Espinoza/index.html",
-    "main.e420c2f9.css.map": "/Portafolio-Pedro-Espinoza/static/css/main.e420c2f9.css.map",
-    "main.cac0d3dc.js.map": "/Portafolio-Pedro-Espinoza/static/js/main.cac0d3dc.js.map"
+    "main.b3d502f1.css.map": "/Portafolio-Pedro-Espinoza/static/css/main.b3d502f1.css.map",
+    "main.ab550b27.js.map": "/Portafolio-Pedro-Espinoza/static/js/main.ab550b27.js.map"
   },
   "entrypoints": [
-    "static/css/main.e420c2f9.css",
-    "static/js/main.cac0d3dc.js"
+    "static/css/main.b3d502f1.css",
+    "static/js/main.ab550b27.js"
   ]
 }
