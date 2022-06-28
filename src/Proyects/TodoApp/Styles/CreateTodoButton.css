@@ -1,0 +1,58 @@
+.create-button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.button-add-todo {
+    height: 40px;
+    width: 140px;
+    font-size: 20px;
+    background-color: #7CC6FE;
+    transform: scale(1);
+}
+
+.button-add-todo:hover {
+    color: red;
+    transform: scale(1.2);
+    transition: transform 1s ease-in;
+}
+
+.send-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button-send-tarea {
+    width: 250px;
+    height: 30px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding-left: 5px;
+}
+
+.send {
+    width: 100px;
+    height: 34px;
+    font-size: 20px;
+    background-color: #7CC6FE;
+}
+
+.send:hover {
+    color: red;
+}
+
+
+@media (min-width: 768px) {
+    .button-send-tarea {
+        width: 350px;
+        height: 40px;
+    }
+
+    .send {
+        width: 150px;
+        height: 40px;
+        font-size: 30px;
+    }
+}

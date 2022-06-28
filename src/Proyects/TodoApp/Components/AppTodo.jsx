@@ -1,11 +1,12 @@
 import React from "react";
-import TodoList from "./TodoList";
+import { AppUI } from "../AppUI";
+import { TodoProvider } from "../TodoContext/TodoContext";
 
 const AppTodo = () => {
     return (
-        <React.Fragment>
-            <TodoList/>
-        </React.Fragment>
+        <TodoProvider>
+            <AppUI/>
+        </TodoProvider>
     )
 }
 
